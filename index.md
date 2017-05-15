@@ -1,4 +1,3 @@
-# HAN FEI  
 # Education
 - ME degree in Faculty of Engineering from Iwate University, Japan in 2016.
 - BE degree in College of Information Engineering from Northwest A&F University, China in 2011.
