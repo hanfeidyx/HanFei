@@ -7,6 +7,7 @@
 ## Master Candidate
 - Konno Laboratory, Design&Media Technology, Graduate School of Engineering, Iwate University 
 - Email: hanfeidyx@lk.cis.iwate-u.ac.jp; hanfeidyx@163.com
+![Image](hanfeidyx.github.io/Iwate University)
 ### Research Interests
 My research interests are in the field of computer graphics technologies applied to cultural heritage and archaeology.
 ### Publications
@@ -23,7 +24,6 @@ My research interests are in the field of computer graphics technologies applied
 - College student innovation training program national project excellent honor certificate(2014).
 
 
-![Image](https://lh4.googleusercontent.com/NZF07joRDnqFfzuEopU3gMx3TwJxqmKc0f_7uuokI48Du9dJZJPVTjGhJhES4l4PdN8sxWK_=w874)
 
 
 ### Markdown
