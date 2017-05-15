@@ -2,9 +2,12 @@
 ## Education
 - ME degree in Faculty of Engineering from Iwate University, Japan in 2016.
 - BE degree in College of Information Engineering from Northwest A&F University, China in 2011.
+
+
 ## Master Candidate
 - Konno Laboratory,Design&Media Technology, Graduate School of Engineering,Iwate University 
-- Email: hanfeidyx@lk.cis.iwate-u.ac.jp    hanfeidyx@163.com
+- Email: hanfeidyx@lk.cis.iwate-u.ac.jp        hanfeidyx@163.com
+### Research Interests
 
 
 
