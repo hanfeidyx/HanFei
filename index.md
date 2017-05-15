@@ -1,3 +1,7 @@
+self.banner = [[ZYBannerView alloc] initWithFrame:CGRectMake(0, 0, 200, 100)];
+self.banner.dataSource = self;
+[self.view addSubview:self.banner];
+
 # Education
 - ME degree in Faculty of Engineering from Iwate University, Japan in 2016.
 - BE degree in College of Information Engineering from Northwest A&F University, China in 2011.
