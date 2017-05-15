@@ -36,7 +36,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-![Image](https://lh4.googleusercontent.com/NZF07joRDnqFfzuEopU3gMx3TwJxqmKc0f_7uuokI48Du9dJZJPVTjGhJhES4l4PdN8sxWK_=w874)
+[Image](https://lh4.googleusercontent.com/NZF07joRDnqFfzuEopU3gMx3TwJxqmKc0f_7uuokI48Du9dJZJPVTjGhJhES4l4PdN8sxWK_=w874)
 
 - Bulleted
 - List
