@@ -1,8 +1,7 @@
 # HAN FEI  
-## Welcome to GitHub Pages
-You can use the [editor on GitHub](https://github.com/hanfeidyx/hanfeidyx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+ME degree in Faculty of Engineering from Iwate University, Japan in 2016.
+BE degree in College of Information Engineering from Northwest A&F University, China in 2011.
 
 ### Markdown
 
