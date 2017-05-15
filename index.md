@@ -5,7 +5,7 @@
 - BE degree in College of Information Engineering from Northwest A&F University, China in 2011.
 
 ## Master Candidate
-# ![Image](/Iwate University.png)
+![][Image](/Iwate University.png)
 - Konno Laboratory, Design&Media Technology, Graduate School of Engineering, Iwate University 
 - Email: hanfeidyx@lk.cis.iwate-u.ac.jp; hanfeidyx@163.com
 
