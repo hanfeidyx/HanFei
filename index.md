@@ -5,8 +5,8 @@
 
 
 ## Master Candidate
-- Konno Laboratory,Design&Media Technology, Graduate School of Engineering,Iwate University 
-- Email: hanfeidyx@lk.cis.iwate-u.ac.jp        hanfeidyx@163.com
+- Konno Laboratory, Design&Media Technology, Graduate School of Engineering, Iwate University 
+- Email: hanfeidyx@lk.cis.iwate-u.ac.jp; hanfeidyx@163.com
 ### Research Interests
 
 
