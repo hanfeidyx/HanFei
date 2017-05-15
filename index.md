@@ -5,7 +5,7 @@
 - BE degree in College of Information Engineering from Northwest A&F University, China in 2011.
 
 ## Master Candidate
-![Image](/Iwate University.png)
+![](/Iwate University.png)
 - Konno Laboratory, Design&Media Technology, Graduate School of Engineering, Iwate University 
 - Email: hanfeidyx@lk.cis.iwate-u.ac.jp; hanfeidyx@163.com
 ### Research Interests
@@ -15,7 +15,7 @@
 - HAN FEI（韓菲） 木下勉   松山克胤   今野晃市 ：楕円を用いた完形土器の円形度解析手法の検討 (An analytical method of elliptic circularity for earthenware) , 日本情報考古学会第37回大会，日本情報考古学会講演論文集, 2016.10.09 (Vol. 17): 65-66.
 
 ## Bachelor Degree 
-![Image](/Northwest A&F University.jpg)
+![](/Northwest A&F University.jpg)
 - College of Information Engineering, Northwest A&F University
 - Email: 2011013039@nwafu.edu.cn; hanfeidyx@163.com
 ### Awards
