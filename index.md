@@ -14,7 +14,7 @@
 ## Publications
 - HAN FEI（韓菲） 木下勉   松山克胤   今野晃市 ：土器形状の円形度解析のための断面点群の2次曲線補間手法の検討 (A study of quadric curves interpolation about circular cross section of point cloud for evaluating earthenware shape circularity) , 平成 28 年度第1回 芸術科学会東北支部研究会，7 月 23 日，2016.
 - HAN FEI（韓菲） 木下勉   松山克胤   今野晃市 ：楕円を用いた完形土器の円形度解析手法の検討 (An analytical method of elliptic circularity for earthenware) , 日本情報考古学会第37回大会，日本情報考古学会講演論文集, 2016.10.09 (Vol. 17): 65-66.
-  
+- HAN FEI（韓菲） 木下勉   松山克胤   今野晃市 ：A Study of Analytic Method for Distortion of Rotational Shape by Using Elliptic Circularity  , NICOGRAPH International 2017，2017年6月3日.
   
 # Bachelor Degree 
 ![](/Northwest A&F University.jpg)
